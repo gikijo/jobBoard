@@ -9,6 +9,8 @@ function errorHandler(code, message) {
   }
 }
 
+// comment
+
 function fetchAPI(url, method, token, options = {}, headers = {
   'Content-Type': 'application/json',
 }) {
