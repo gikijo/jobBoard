@@ -1,4 +1,4 @@
-// https://cdn.jsdelivr.net/gh/gikijo/jobBoard/auth@v2.js
+// https://cdn.jsdelivr.net/gh/gikijo/jobBoard/auth@v1.js
 
 function generateUniqueID() {
   // Generate a long, unique number using the current time
